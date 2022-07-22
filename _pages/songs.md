@@ -1,15 +1,13 @@
 ---
 layout: single
 author_profile: false
-title: "Conheça nossos produtos"
+title: "Listen to our songs"
 header:
-  image: "/assets/images/deeployer-website-headers-portfolio.png"
+  image: "/assets/images/little-rad-ghosts-banner-red-banner-medium.png"
 permalink: /songs/
 sidebar:
   nav: "songs"
 ---
-
-<img src="https://deeployer.com.br/assets/images/deeployer-logo-deeplake.png" style="width: 400px" />
 
 ## Title
 
