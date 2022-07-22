@@ -1,18 +1,15 @@
 # main links links
 main:
   - title: "home"
-    url: https://deeployer.com/
-  - title: "blog"
-    url: /year-archive/
-  - title: "portfolio"
-    url: /portfolio/
+    url: https://ldaniel.github.io/littleradghosts
+  - title: "songs"
+    url: /songs/
   - title: "about"
     url: /about/
-  - title: "contact"
-    url: /contact/
-  - title: 🇧🇷
-    url: https://deeployer.com.br
-
+  - title: "about"
+    url: /about/
+  - title: "merch"
+    url: /merch/
 
 # sidebar menu links
 about:
