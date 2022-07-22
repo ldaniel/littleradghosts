@@ -4,9 +4,9 @@ author_profile: false
 title: "Conheça nossos produtos"
 header:
   image: "/assets/images/deeployer-website-headers-portfolio.png"
-permalink: /products/
+permalink: /merch/
 sidebar:
-  nav: "products"
+  nav: "merch"
 ---
 
 <img src="https://deeployer.com.br/assets/images/deeployer-logo-deeplake.png" style="width: 400px" />

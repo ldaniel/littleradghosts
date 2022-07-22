@@ -6,35 +6,19 @@ main:
     url: /songs/
   - title: "about"
     url: /about/
-  - title: "about"
-    url: /about/
   - title: "merch"
     url: /merch/
 
 # sidebar menu links
-about:
+merch:
   - title: What's here?
     children:
-      - title: "our vision"
-        url: "https://deeployer.com/about/#our-vision"
-      - title: "our values"
-        url: "https://deeployer.com/about/#our-values"
-      - title: "our mission"
-        url: "https://deeployer.com/about/#our-mission"
-      - title: "code of conduct"
-        url: "https://deeployer.com/about/#code-of-conduct"
+      - title: "topic 1"
+        url: "#"
+      - title: "topic 2"
+        url: "#"
+      - title: "topic 3"
+        url: "#"
+      - title: "topic 4"
+        url: "#"
 
-# sidebar menu links
-posts:
-  - title: See the posts
-    children:
-      - title: "By year"
-        url: "/year-archive/"
-      - title: "By categories"
-        url: "/categories/"
-      - title: "By tags"
-        url: "/tags/"
-  - title: Main topics
-    children:
-      - title: "Articles"
-        url: "/categories/#data-science"
