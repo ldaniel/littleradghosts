@@ -14,6 +14,6 @@ sidebar:
 To-do.
 
 <audio controls>  
-  <source src="/assets/songs/bleak.mp3" type="audio/mpeg">
+  <source src="https://raw.githubusercontent.com/ldaniel/littleradghosts/main/assets/songs/bleak.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio> 
