@@ -11,7 +11,7 @@ sidebar:
 
 ## Red Neverland
 
-Bleak!
+Bleak
 <br />
 <audio controls>  
   <source src="https://raw.githubusercontent.com/ldaniel/littleradghosts/main/assets/songs/bleak.mp3" type="audio/mpeg">
