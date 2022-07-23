@@ -103,8 +103,8 @@ author:
   bio              : "Official website of Little Rad Ghosts"
   location         : "Seattle, USA"
   links:
-    - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
       url: "#"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -116,8 +116,8 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
       url: "#"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
