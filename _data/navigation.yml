@@ -22,3 +22,15 @@ merch:
       - title: "topic 4"
         url: "#"
 
+songs:
+  - title: What's here?
+    children:
+      - title: "topic 1"
+        url: "#"
+      - title: "topic 2"
+        url: "#"
+      - title: "topic 3"
+        url: "#"
+      - title: "topic 4"
+        url: "#"
+

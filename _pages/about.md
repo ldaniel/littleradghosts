@@ -1,14 +1,11 @@
 ---
-layout: single
+layout: splash
 author_profile: false
-title: "About us"
 header:
   image: "/assets/images/little-rad-ghosts-banner-red-banner-medium.png"
 permalink: /about/
-sidebar:
-  nav: "about"
 ---
 
-## Title
+## About us
 
-To-do.
+To-do. 
